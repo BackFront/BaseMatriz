@@ -1,0 +1,6 @@
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\bin\Debug\BaseMatriz.exe.config
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\obj\Debug\BaseMatriz.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\bin\Debug\BaseMatriz.exe
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\bin\Debug\BaseMatriz.pdb
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\obj\Debug\BaseMatriz.exe
+C:\Users\Rafael\OneDrive\Faculdade\Topicos_Especiais\BaseMatriz\obj\Debug\BaseMatriz.pdb
